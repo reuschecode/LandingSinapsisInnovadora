@@ -15,7 +15,7 @@ export const DoxfMicrofrontend = () => {
       {isLoading && (
         <div className="absolute inset-0 flex items-center justify-center z-10">
           <div className="text-blue-500 text-sm font-mono animate-pulse">
-            Cargando DOXF...
+            Cargando DXOF...
           </div>
         </div>
       )}
